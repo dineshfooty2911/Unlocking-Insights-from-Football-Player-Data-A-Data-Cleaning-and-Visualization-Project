@@ -3,7 +3,7 @@
 ## Project Overview
 This project involves analyzing a dataset of football players downloaded from Kaggle using various data analysis and visualization tools. The goal is to gain insights into the relationships between different variables in the dataset and make informed decisions based on the insights gained from the data.
 
-## Tools and Technologies Used
+## Technology Stack
 - **Pandas:** For data manipulation and cleaning.
 - **Seaborn:** For data visualization.
 - **Matplotlib:** For data visualization.
