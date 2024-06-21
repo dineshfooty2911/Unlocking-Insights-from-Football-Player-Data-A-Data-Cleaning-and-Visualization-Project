@@ -28,6 +28,7 @@ This project involves analyzing a dataset of football players downloaded from Ka
 ### Advanced Exploration with Tableau:
 - The cleaned DataFrame was exported to a CSV file and further explored in Tableau.
 - Tableau was used to create interactive visualizations and dashboards to gain deeper insights into the data.
+- You can view the Tableau visualizations and dashboards [here]().
 
 ## Impact
 This project showcases the power of data analysis and visualization in understanding complex datasets. The insights gained from the analysis of the football player dataset can be used by coaches and team managers to make strategic decisions about team formation, recruitment, and training.
